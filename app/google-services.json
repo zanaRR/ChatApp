@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "882956389576",
+    "firebase_url": "https://chatapp-6b414.firebaseio.com",
+    "project_id": "chatapp-6b414",
+    "storage_bucket": "chatapp-6b414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882956389576:android:10d4a6b5e93e6c25c0e9fd",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882956389576-f6ll68tkblr9g1n5a9si1d2g33v1r541.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "a01b5e897da772354c5bc0e5a8a0bd1ed93e7bd2"
+          }
+        },
+        {
+          "client_id": "882956389576-7p2dv407bu3k145o62mjr6b665f33boh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "b7d046e8545a3f76b05ba5a866ea9cdd48538ff8"
+          }
+        },
+        {
+          "client_id": "882956389576-i45gn8mqpnlis7nv1asqehn1nt7d235p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "d8806c531a8078b37361627f13d1c247436fa502"
+          }
+        },
+        {
+          "client_id": "882956389576-dtnjkdkg57kqbmk3usv8e8rl77qld8j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-00cIXvoAc9oez9PwRD9KIwzf6_Pfr4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882956389576-dtnjkdkg57kqbmk3usv8e8rl77qld8j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

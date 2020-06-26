@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/background"
+        android:tintMode="multiply"
+        android:tint="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/welcome_to_ubt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Welcome to Chat App"
+        android:layout_below="@+id/background"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/welcome_to_ubt"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorSecondAccent"
+        android:padding="10dp"
+        android:text="Login"
+        android:textColor="@color/colorPrimary" />
+
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_button"
+        android:layout_centerInParent="true"
+        android:text="Register" />
+
+</RelativeLayout>
